@@ -1,0 +1,1 @@
+['Hydrophobicity_Fasman', 'tScales_T3', 'FASGAI_F3', 'MSWHIM_MSWHIM1', 'stScales_ST4', 'VHSE_VHSE5', 'VHSE_VHSE1', 'stScales_ST7', 'Hydrophobicity_Aboderin', 'Hydrophobicity_Rose', 'Hydrophobicity_Wilson', 'Hydrophobicity_Juretic', 'stScales_ST5', 'Hydrophobicity_Janin', 'stScales_ST8']

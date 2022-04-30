@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'stScales_ST5', 'FASGAI_F6', 'crucianiProperties_PP3', 'Hydrophobicity_Cowan3.4', 'ProtFP_ProtFP2', 'Hydrophobicity_Janin']

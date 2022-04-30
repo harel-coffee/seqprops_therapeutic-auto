@@ -1,0 +1,1 @@
+['crucianiProperties_PP2', 'stScales_ST7', 'ProtFP_ProtFP1', 'Hydrophobicity_Jones', 'ProtFP_ProtFP7', 'Hydrophobicity_Juretic', 'BLOSUM_BLOSUM1', 'Hydrophobicity_Argos']

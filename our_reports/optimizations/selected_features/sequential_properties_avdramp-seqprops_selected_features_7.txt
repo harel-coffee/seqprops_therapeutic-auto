@@ -1,0 +1,1 @@
+['Hydrophobicity_BullBreese', 'FASGAI_F1', 'Hydrophobicity_Ponnuswamy', 'ProtFP_ProtFP7', 'VHSE_VHSE5', 'BLOSUM_BLOSUM6', 'tScales_T2', 'ProtFP_ProtFP3', 'Hydrophobicity_Wolfenden', 'ProtFP_ProtFP1', 'MSWHIM_MSWHIM1', 'Hydrophobicity_Welling']

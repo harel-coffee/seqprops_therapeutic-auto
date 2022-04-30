@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'crucianiProperties_PP3', 'Hydrophobicity_Zimmerman', 'ProtFP_ProtFP1', 'VHSE_VHSE8', 'Hydrophobicity_Eisenberg', 'Hydrophobicity_Fauchere', 'Hydrophobicity_Janin', 'Hydrophobicity_Guy']

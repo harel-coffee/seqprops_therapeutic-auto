@@ -1,0 +1,1 @@
+['Hydrophobicity_Aboderin', 'stScales_ST4', 'tScales_T3', 'VHSE_VHSE7', 'Hydrophobicity_Manavalan', 'VHSE_VHSE1', 'Hydrophobicity_Casari', 'crucianiProperties_PP2', 'BLOSUM_BLOSUM7']

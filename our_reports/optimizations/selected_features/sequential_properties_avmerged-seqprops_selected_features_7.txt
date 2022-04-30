@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'stScales_ST5', 'FASGAI_F6', 'VHSE_VHSE5', 'FASGAI_F2', 'Hydrophobicity_Zimmerman', 'tScales_T5']

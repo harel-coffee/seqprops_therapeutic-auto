@@ -1,0 +1,1 @@
+{'embedding_size': 130, 'num_cells': 64, 'dropout': 0.1}

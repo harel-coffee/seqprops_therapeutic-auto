@@ -1,0 +1,1 @@
+['tScales_T3', 'Hydrophobicity_Casari', 'FASGAI_F3', 'VHSE_VHSE7', 'BLOSUM_BLOSUM7', 'zScales_Z3', 'Hydrophobicity_Fasman', 'Hydrophobicity_Juretic', 'stScales_ST6', 'Hydrophobicity_Eisenberg', 'BLOSUM_BLOSUM3', 'Hydrophobicity_Jones', 'ProtFP_ProtFP4', 'stScales_ST7', 'Hydrophobicity_Guy', 'BLOSUM_BLOSUM10', 'tScales_T1', 'ProtFP_ProtFP5', 'tScales_T4']

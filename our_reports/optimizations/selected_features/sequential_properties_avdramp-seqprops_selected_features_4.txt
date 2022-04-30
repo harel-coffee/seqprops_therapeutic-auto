@@ -1,0 +1,1 @@
+['ProtFP_ProtFP1', 'stScales_ST4', 'Hydrophobicity_BullBreese', 'ProtFP_ProtFP7', 'tScales_T3', 'BLOSUM_BLOSUM6', 'Hydrophobicity_Parker', 'Hydrophobicity_Argos', 'stScales_ST8', 'zScales_Z3']

@@ -1,0 +1,1 @@
+['Hydrophobicity_Fauchere', 'BLOSUM_BLOSUM7', 'FASGAI_F4', 'VHSE_VHSE6', 'VHSE_VHSE8', 'ProtFP_ProtFP4', 'Hydrophobicity_Manavalan', 'BLOSUM_BLOSUM5', 'ProtFP_ProtFP5', 'Hydrophobicity_AbrahamLeo']

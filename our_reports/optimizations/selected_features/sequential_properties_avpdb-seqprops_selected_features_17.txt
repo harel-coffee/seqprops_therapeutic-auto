@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'FASGAI_F6', 'Hydrophobicity_Argos', 'BLOSUM_BLOSUM7', 'Hydrophobicity_Zimmerman', 'Hydrophobicity_Roseman', 'stScales_ST8']

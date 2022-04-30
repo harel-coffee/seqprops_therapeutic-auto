@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'BLOSUM_BLOSUM3', 'ProtFP_ProtFP5', 'Hydrophobicity_Rose', 'Hydrophobicity_Miyazawa', 'Hydrophobicity_Wilson', 'MSWHIM_MSWHIM2', 'VHSE_VHSE7', 'Hydrophobicity_Cowan3.4', 'crucianiProperties_PP1', 'Hydrophobicity_Fauchere', 'BLOSUM_BLOSUM9', 'VHSE_VHSE4', 'BLOSUM_BLOSUM10', 'zScales_Z5']

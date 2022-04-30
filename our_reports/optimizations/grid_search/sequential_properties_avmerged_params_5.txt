@@ -1,0 +1,1 @@
+{'conv1_filters': 32, 'conv2_filters': 64, 'conv_kernel_size': 8, 'num_cells': 128, 'dropout': 0.3}

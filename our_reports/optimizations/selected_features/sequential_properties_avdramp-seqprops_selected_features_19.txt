@@ -1,0 +1,1 @@
+['Hydrophobicity_BullBreese', 'stScales_ST4', 'BLOSUM_BLOSUM6', 'VHSE_VHSE5', 'Hydrophobicity_Kidera', 'FASGAI_F2', 'tScales_T3', 'Hydrophobicity_Fasman', 'Hydrophobicity_Guy', 'BLOSUM_BLOSUM10', 'Hydrophobicity_Welling', 'FASGAI_F4', 'zScales_Z4', 'Hydrophobicity_Jones', 'VHSE_VHSE4']

@@ -1,0 +1,1 @@
+['Hydrophobicity_Aboderin', 'tScales_T3', 'VHSE_VHSE7', 'Hydrophobicity_Ponnuswamy', 'FASGAI_F5', 'stScales_ST4', 'zScales_Z3', 'Hydrophobicity_Goldsack', 'MSWHIM_MSWHIM3', 'FASGAI_F4', 'zScales_Z4', 'Hydrophobicity_Welling', 'VHSE_VHSE5', 'Hydrophobicity_Juretic', 'VHSE_VHSE3']

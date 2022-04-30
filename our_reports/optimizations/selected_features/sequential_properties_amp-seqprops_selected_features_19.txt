@@ -1,0 +1,1 @@
+['Hydrophobicity_Aboderin', 'tScales_T3', 'Hydrophobicity_Fauchere', 'stScales_ST4', 'VHSE_VHSE3', 'BLOSUM_BLOSUM5', 'Hydrophobicity_Ponnuswamy', 'crucianiProperties_PP1', 'Hydrophobicity_Welling', 'Hydrophobicity_Chothia']

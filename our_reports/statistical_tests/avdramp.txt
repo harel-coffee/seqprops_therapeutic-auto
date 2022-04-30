@@ -1,0 +1,49 @@
+Notice: p-values that are higher than the corrected significance 
+       level (0.0033333333333333335) are marked with an asterisk. In those cases, no statistically 
+       significant difference was found between a given representation and
+       sequential properties.
+--F1---------------------------------------------------------------------------
+Friedman: 0.0001459712029673608
+Wilcoxon (Peptide properties & Sequential properties): 0.0008374789865327178
+Wilcoxon (One-hot & Sequential properties): 0.5458755493164062*
+Wilcoxon (Embedding & Sequential properties): 0.0007076263427734375
+
+
+
+--MCC--------------------------------------------------------------------------
+Friedman: 0.0010877919652195617
+Wilcoxon (Peptide properties & Sequential properties): 0.001284705613291876
+Wilcoxon (One-hot & Sequential properties): 0.6742229461669922*
+Wilcoxon (Embedding & Sequential properties): 0.002712249755859375
+
+
+
+--GM---------------------------------------------------------------------------
+Friedman: 6.940709191453446e-05
+Wilcoxon (Peptide properties & Sequential properties): 0.000624865006410599
+Wilcoxon (One-hot & Sequential properties): 0.49800872802734375*
+Wilcoxon (Embedding & Sequential properties): 0.0003948211669921875
+
+
+
+--Recall-----------------------------------------------------------------------
+Friedman: 1.593569947807572e-05
+Wilcoxon (Peptide properties & Sequential properties): 0.0006724857044746806
+Wilcoxon (One-hot & Sequential properties): 0.32564825886324167*
+Wilcoxon (Embedding & Sequential properties): 0.0007823741377355151
+
+
+
+--Precision--------------------------------------------------------------------
+Friedman: 0.040530890962158596
+Wilcoxon (Peptide properties & Sequential properties): 0.8616909367394272*
+Wilcoxon (One-hot & Sequential properties): 0.082550048828125*
+Wilcoxon (Embedding & Sequential properties): 0.058258056640625*
+
+
+
+--ROC-AUC----------------------------------------------------------------------
+Friedman: 5.12189358963606e-08
+Wilcoxon (Peptide properties & Sequential properties): 1.9073486328125e-05
+Wilcoxon (One-hot & Sequential properties): 0.069580078125*
+Wilcoxon (Embedding & Sequential properties): 0.000209808349609375

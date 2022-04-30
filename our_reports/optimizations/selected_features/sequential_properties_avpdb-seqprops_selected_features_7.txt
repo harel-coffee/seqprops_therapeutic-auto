@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'Hydrophobicity_Juretic', 'Hydrophobicity_Fauchere', 'Hydrophobicity_Levitt', 'BLOSUM_BLOSUM4', 'Hydrophobicity_Cowan3.4', 'crucianiProperties_PP2', 'Hydrophobicity_Manavalan', 'Hydrophobicity_Zimmerman', 'Hydrophobicity_Argos', 'BLOSUM_BLOSUM3', 'Hydrophobicity_Eisenberg', 'Hydrophobicity_Jones']

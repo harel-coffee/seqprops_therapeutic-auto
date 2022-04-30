@@ -1,0 +1,1 @@
+['Hydrophobicity_Fasman', 'stScales_ST4', 'tScales_T3', 'Hydrophobicity_Aboderin', 'BLOSUM_BLOSUM5', 'BLOSUM_BLOSUM7', 'zScales_Z5', 'Hydrophobicity_BullBreese', 'VHSE_VHSE1', 'VHSE_VHSE2']

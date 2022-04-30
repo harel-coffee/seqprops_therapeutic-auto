@@ -1,0 +1,1 @@
+['ProtFP_ProtFP1', 'stScales_ST8', 'VHSE_VHSE4', 'ProtFP_ProtFP5', 'ProtFP_ProtFP3', 'VHSE_VHSE8', 'VHSE_VHSE1', 'Hydrophobicity_Goldsack', 'ProtFP_ProtFP7', 'VHSE_VHSE7']

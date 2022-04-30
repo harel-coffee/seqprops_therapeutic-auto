@@ -1,0 +1,1 @@
+['Hydrophobicity_Fauchere', 'MSWHIM_MSWHIM3', 'Hydrophobicity_Jones', 'ProtFP_ProtFP7', 'VHSE_VHSE6', 'Hydrophobicity_Juretic', 'VHSE_VHSE7', 'zScales_Z3', 'FASGAI_F4', 'Hydrophobicity_Engelman', 'ProtFP_ProtFP5']

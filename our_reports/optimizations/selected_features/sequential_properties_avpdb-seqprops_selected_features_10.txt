@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'crucianiProperties_PP2', 'FASGAI_F6', 'ProtFP_ProtFP3', 'Hydrophobicity_Argos', 'Hydrophobicity_Sweet', 'stScales_ST6', 'BLOSUM_BLOSUM9', 'Hydrophobicity_Fasman']

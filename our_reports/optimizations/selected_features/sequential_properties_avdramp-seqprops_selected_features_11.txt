@@ -1,0 +1,1 @@
+['Hydrophobicity_Parker', 'BLOSUM_BLOSUM6', 'FASGAI_F6', 'tScales_T3', 'zScales_Z3', 'Hydrophobicity_Juretic', 'Hydrophobicity_Levitt', 'stScales_ST4', 'Hydrophobicity_Casari', 'Hydrophobicity_Rao']

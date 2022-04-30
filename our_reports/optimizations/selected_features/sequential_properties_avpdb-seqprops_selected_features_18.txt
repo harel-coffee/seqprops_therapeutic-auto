@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'stScales_ST8', 'MSWHIM_MSWHIM1', 'stScales_ST5', 'Hydrophobicity_Parker', 'VHSE_VHSE7', 'BLOSUM_BLOSUM9', 'crucianiProperties_PP3', 'Hydrophobicity_KyteDoolittle', 'zScales_Z2', 'ProtFP_ProtFP3', 'Hydrophobicity_HoppWoods', 'Hydrophobicity_Argos', 'zScales_Z3', 'VHSE_VHSE2', 'BLOSUM_BLOSUM2']

@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'VHSE_VHSE6', 'crucianiProperties_PP2', 'VHSE_VHSE4', 'VHSE_VHSE5', 'ProtFP_ProtFP5', 'Hydrophobicity_Goldsack', 'tScales_T3', 'stScales_ST6', 'zScales_Z2', 'BLOSUM_BLOSUM6', 'Hydrophobicity_Aboderin', 'ProtFP_ProtFP7', 'Hydrophobicity_Prabhakaran', 'MSWHIM_MSWHIM1', 'Hydrophobicity_Zimmerman', 'Hydrophobicity_HoppWoods']

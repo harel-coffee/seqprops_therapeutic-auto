@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'Hydrophobicity_Argos', 'Hydrophobicity_Guy', 'Hydrophobicity_Miyazawa', 'MSWHIM_MSWHIM2', 'Hydrophobicity_Cowan3.4', 'FASGAI_F4', 'MSWHIM_MSWHIM1', 'stScales_ST6', 'Hydrophobicity_Manavalan', 'Hydrophobicity_Wilson', 'Hydrophobicity_Engelman', 'Hydrophobicity_Zimmerman', 'Hydrophobicity_Tanford', 'Hydrophobicity_Eisenberg', 'VHSE_VHSE1']

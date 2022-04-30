@@ -1,0 +1,1 @@
+['Hydrophobicity_Kuhn', 'ProtFP_ProtFP1', 'VHSE_VHSE6', 'FASGAI_F5', 'zScales_Z5', 'BLOSUM_BLOSUM5', 'Hydrophobicity_Roseman', 'Hydrophobicity_Wolfenden', 'Hydrophobicity_Aboderin', 'Hydrophobicity_HoppWoods']

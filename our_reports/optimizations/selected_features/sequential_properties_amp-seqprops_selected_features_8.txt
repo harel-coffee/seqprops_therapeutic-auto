@@ -1,0 +1,1 @@
+['FASGAI_F4', 'Hydrophobicity_Juretic', 'tScales_T3', 'zScales_Z2', 'Hydrophobicity_HoppWoods', 'Hydrophobicity_Miyazawa', 'FASGAI_F5', 'crucianiProperties_PP2', 'Hydrophobicity_Aboderin', 'tScales_T4', 'Hydrophobicity_Cowan7.5', 'FASGAI_F6', 'zScales_Z1', 'ProtFP_ProtFP6', 'BLOSUM_BLOSUM3', 'tScales_T1']

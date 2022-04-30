@@ -1,0 +1,1 @@
+{'dense1_units': 40, 'dense2_units': 160, 'dense3_units': 80}

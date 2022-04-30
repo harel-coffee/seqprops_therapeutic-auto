@@ -1,0 +1,1 @@
+['Hydrophobicity_Argos', 'FASGAI_F6', 'BLOSUM_BLOSUM10', 'Hydrophobicity_BullBreese', 'crucianiProperties_PP3', 'BLOSUM_BLOSUM7', 'Hydrophobicity_Manavalan', 'VHSE_VHSE8']

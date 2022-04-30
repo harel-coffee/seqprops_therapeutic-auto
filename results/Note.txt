@@ -1,0 +1,1 @@
+Grid search and feature selection results will be saved in this directory. Script similarities.py saves generated figures in this directory.

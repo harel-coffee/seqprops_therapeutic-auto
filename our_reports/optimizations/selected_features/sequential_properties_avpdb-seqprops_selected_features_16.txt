@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'stScales_ST8', 'ProtFP_ProtFP3', 'ProtFP_ProtFP6', 'ProtFP_ProtFP7', 'Hydrophobicity_Juretic', 'stScales_ST5', 'Hydrophobicity_KyteDoolittle', 'Hydrophobicity_BullBreese', 'Hydrophobicity_Wilson']

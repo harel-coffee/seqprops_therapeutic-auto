@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'Hydrophobicity_Argos', 'FASGAI_F6', 'ProtFP_ProtFP7', 'Hydrophobicity_HoppWoods', 'Hydrophobicity_Wolfenden', 'Hydrophobicity_KyteDoolittle', 'VHSE_VHSE1']

@@ -1,0 +1,1 @@
+['Hydrophobicity_Fauchere', 'FASGAI_F5', 'crucianiProperties_PP1', 'stScales_ST5', 'Hydrophobicity_Kuhn', 'Hydrophobicity_AbrahamLeo', 'VHSE_VHSE7', 'Hydrophobicity_Janin', 'Hydrophobicity_BullBreese', 'Hydrophobicity_Eisenberg']

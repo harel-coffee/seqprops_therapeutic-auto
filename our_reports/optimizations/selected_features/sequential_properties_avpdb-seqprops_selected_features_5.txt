@@ -1,0 +1,1 @@
+['Hydrophobicity_Argos', 'tScales_T3', 'BLOSUM_BLOSUM5', 'Hydrophobicity_Wilson', 'Hydrophobicity_Welling', 'BLOSUM_BLOSUM9', 'FASGAI_F2']

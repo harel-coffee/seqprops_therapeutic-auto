@@ -1,0 +1,27 @@
+Peptide properties
+F1 score: 0.188
+MCC: 0.256
+GM: 0.293
+Recall: 0.117
+Precision: 0.643
+
+One-hot vector encoding
+F1 score: 0.396
+MCC: 0.440
+GM: 0.524
+Recall: 0.282
+Precision: 0.743
+
+Embedding
+F1 score: 0.168
+MCC: 0.205
+GM: 0.237
+Recall: 0.108
+Precision: 0.427
+
+Sequential properties
+F1 score: 0.413
+MCC: 0.440
+GM: 0.550
+Recall: 0.322
+Precision: 0.662

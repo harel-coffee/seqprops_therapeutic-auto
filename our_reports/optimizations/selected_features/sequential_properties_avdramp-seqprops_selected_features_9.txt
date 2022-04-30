@@ -1,0 +1,1 @@
+['zScales_Z1', 'tScales_T3', 'zScales_Z3', 'ProtFP_ProtFP6', 'stScales_ST1', 'Hydrophobicity_Roseman', 'ProtFP_ProtFP3']

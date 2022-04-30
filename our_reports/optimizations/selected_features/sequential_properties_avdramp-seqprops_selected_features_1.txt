@@ -1,0 +1,1 @@
+['Hydrophobicity_BullBreese', 'zScales_Z3', 'Hydrophobicity_Miyazawa', 'VHSE_VHSE7', 'tScales_T3', 'ProtFP_ProtFP6', 'stScales_ST2', 'stScales_ST6', 'stScales_ST8', 'Hydrophobicity_Manavalan', 'crucianiProperties_PP2']

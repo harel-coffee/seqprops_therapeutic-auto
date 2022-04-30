@@ -1,0 +1,1 @@
+['Hydrophobicity_Parker', 'zScales_Z3', 'Hydrophobicity_Welling', 'BLOSUM_BLOSUM9', 'ProtFP_ProtFP5', 'stScales_ST2', 'Hydrophobicity_Miyazawa', 'ProtFP_ProtFP3', 'FASGAI_F3', 'zScales_Z4', 'zScales_Z5', 'Hydrophobicity_Juretic', 'Hydrophobicity_KyteDoolittle', 'VHSE_VHSE1']

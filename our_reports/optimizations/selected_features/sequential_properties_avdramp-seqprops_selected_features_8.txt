@@ -1,0 +1,1 @@
+['Hydrophobicity_BullBreese', 'zScales_Z3', 'Hydrophobicity_Fasman', 'tScales_T3', 'ProtFP_ProtFP5', 'FASGAI_F4', 'FASGAI_F6', 'BLOSUM_BLOSUM4', 'Hydrophobicity_Tanford', 'Hydrophobicity_Fauchere', 'crucianiProperties_PP2']

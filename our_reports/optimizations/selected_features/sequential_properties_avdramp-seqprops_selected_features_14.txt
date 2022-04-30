@@ -1,0 +1,1 @@
+['Hydrophobicity_Aboderin', 'Hydrophobicity_Parker', 'BLOSUM_BLOSUM4', 'ProtFP_ProtFP7', 'VHSE_VHSE8', 'Hydrophobicity_Welling', 'VHSE_VHSE5', 'Hydrophobicity_Chothia', 'Hydrophobicity_Cowan3.4', 'Hydrophobicity_Jones', 'BLOSUM_BLOSUM6', 'stScales_ST8', 'stScales_ST3', 'Hydrophobicity_Fasman', 'MSWHIM_MSWHIM1']

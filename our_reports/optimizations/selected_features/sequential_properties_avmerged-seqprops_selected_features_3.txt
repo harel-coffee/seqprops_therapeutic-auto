@@ -1,0 +1,1 @@
+['BLOSUM_BLOSUM1', 'VHSE_VHSE6', 'ProtFP_ProtFP6', 'stScales_ST8', 'ProtFP_ProtFP3', 'FASGAI_F6', 'Hydrophobicity_Tanford', 'zScales_Z1', 'BLOSUM_BLOSUM5', 'BLOSUM_BLOSUM6', 'ProtFP_ProtFP7', 'VHSE_VHSE1', 'tScales_T2']

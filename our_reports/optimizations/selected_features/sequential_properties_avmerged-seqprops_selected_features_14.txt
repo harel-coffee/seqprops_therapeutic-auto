@@ -1,0 +1,1 @@
+['Hydrophobicity_Fauchere', 'ProtFP_ProtFP3', 'BLOSUM_BLOSUM6', 'ProtFP_ProtFP5', 'Hydrophobicity_KyteDoolittle', 'ProtFP_ProtFP7', 'stScales_ST1', 'Hydrophobicity_Rao', 'Hydrophobicity_Cowan7.5']

@@ -1,0 +1,1 @@
+['Hydrophobicity_Fauchere', 'crucianiProperties_PP3', 'BLOSUM_BLOSUM5', 'Hydrophobicity_Argos', 'ProtFP_ProtFP7', 'zScales_Z2', 'Hydrophobicity_Kidera', 'tScales_T5', 'MSWHIM_MSWHIM1']

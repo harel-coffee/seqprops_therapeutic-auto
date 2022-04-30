@@ -1,0 +1,1 @@
+['Hydrophobicity_Parker', 'BLOSUM_BLOSUM6', 'BLOSUM_BLOSUM2', 'ProtFP_ProtFP7', 'BLOSUM_BLOSUM3', 'Hydrophobicity_BullBreese', 'Hydrophobicity_Ponnuswamy', 'MSWHIM_MSWHIM1', 'Hydrophobicity_Manavalan']

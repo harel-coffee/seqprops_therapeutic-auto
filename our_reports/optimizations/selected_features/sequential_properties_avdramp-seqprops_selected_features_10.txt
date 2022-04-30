@@ -1,0 +1,1 @@
+['Hydrophobicity_Sweet', 'zScales_Z5', 'ProtFP_ProtFP7', 'Hydrophobicity_Argos', 'zScales_Z3', 'FASGAI_F5', 'Hydrophobicity_Cid', 'ProtFP_ProtFP8', 'BLOSUM_BLOSUM9']

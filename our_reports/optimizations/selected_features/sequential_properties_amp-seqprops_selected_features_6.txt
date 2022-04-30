@@ -1,0 +1,1 @@
+['Hydrophobicity_Aboderin', 'tScales_T3', 'Hydrophobicity_Fasman', 'BLOSUM_BLOSUM10', 'ProtFP_ProtFP5', 'zScales_Z4', 'Hydrophobicity_Kidera', 'ProtFP_ProtFP8', 'stScales_ST3', 'Hydrophobicity_Chothia']

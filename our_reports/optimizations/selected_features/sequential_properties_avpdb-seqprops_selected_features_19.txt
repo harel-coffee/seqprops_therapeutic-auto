@@ -1,0 +1,1 @@
+['Hydrophobicity_Fauchere', 'FASGAI_F6', 'VHSE_VHSE6', 'ProtFP_ProtFP7', 'crucianiProperties_PP1', 'VHSE_VHSE1', 'VHSE_VHSE4', 'Hydrophobicity_Argos', 'ProtFP_ProtFP6', 'Hydrophobicity_HoppWoods', 'stScales_ST2', 'BLOSUM_BLOSUM7', 'FASGAI_F1', 'Hydrophobicity_Rao']

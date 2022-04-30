@@ -1,0 +1,1 @@
+['Hydrophobicity_Kuhn', 'Hydrophobicity_Wilson', 'FASGAI_F2', 'BLOSUM_BLOSUM1', 'stScales_ST5', 'crucianiProperties_PP2', 'Hydrophobicity_Fasman', 'ProtFP_ProtFP8', 'zScales_Z1']

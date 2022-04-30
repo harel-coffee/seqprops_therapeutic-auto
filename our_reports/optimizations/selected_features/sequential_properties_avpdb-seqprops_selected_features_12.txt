@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'zScales_Z4', 'VHSE_VHSE2', 'Hydrophobicity_Cid', 'crucianiProperties_PP1', 'ProtFP_ProtFP5', 'tScales_T3', 'VHSE_VHSE7', 'Hydrophobicity_Jones', 'stScales_ST6', 'Hydrophobicity_Wilson', 'FASGAI_F1']

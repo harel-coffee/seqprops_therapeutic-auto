@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'BLOSUM_BLOSUM3', 'ProtFP_ProtFP5', 'FASGAI_F5', 'FASGAI_F6', 'Hydrophobicity_Rao', 'Hydrophobicity_Welling', 'Hydrophobicity_Sweet', 'stScales_ST7', 'tScales_T3', 'stScales_ST5', 'Hydrophobicity_HoppWoods', 'ProtFP_ProtFP7', 'Hydrophobicity_Prabhakaran']

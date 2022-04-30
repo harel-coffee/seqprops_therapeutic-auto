@@ -1,0 +1,1 @@
+['Hydrophobicity_Kidera', 'stScales_ST8', 'BLOSUM_BLOSUM7', 'ProtFP_ProtFP4', 'Hydrophobicity_HoppWoods', 'Hydrophobicity_Wolfenden', 'tScales_T3', 'Hydrophobicity_BullBreese', 'ProtFP_ProtFP3', 'Hydrophobicity_Manavalan', 'BLOSUM_BLOSUM10', 'crucianiProperties_PP1', 'Hydrophobicity_Argos']
